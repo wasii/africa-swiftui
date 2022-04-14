@@ -45,6 +45,7 @@
 		C664D99F2807EEA80098D6AD /* VideoListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C664D99E2807EEA80098D6AD /* VideoListItem.swift */; };
 		C664D9A12807F4810098D6AD /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C664D9A02807F4810098D6AD /* VideoPlayerView.swift */; };
 		C664D9A32807F5180098D6AD /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C664D9A22807F5180098D6AD /* VideoPlayerHelper.swift */; };
+		C664D9A5280806220098D6AD /* ParkLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C664D9A4280806220098D6AD /* ParkLocation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		C664D99E2807EEA80098D6AD /* VideoListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItem.swift; sourceTree = "<group>"; };
 		C664D9A02807F4810098D6AD /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		C664D9A22807F5180098D6AD /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		C664D9A4280806220098D6AD /* ParkLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkLocation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +208,7 @@
 				C63FECF42806C36A004277AB /* CoverImageModal.swift */,
 				C63FED002806D429004277AB /* AnimalModal.swift */,
 				C664D99C2807EE490098D6AD /* VideoModel.swift */,
+				C664D9A4280806220098D6AD /* ParkLocation.swift */,
 			);
 			path = Modal;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				C63FED012806D429004277AB /* AnimalModal.swift in Sources */,
 				C63FED082806DF31004277AB /* InsetGalleryView.swift in Sources */,
 				C63FECBD2806BBB7004277AB /* ContentView.swift in Sources */,
+				C664D9A5280806220098D6AD /* ParkLocation.swift in Sources */,
 				C63FECEF2806C06E004277AB /* MainView.swift in Sources */,
 				C63FED032806D662004277AB /* AnimalDetailView.swift in Sources */,
 				C63FED052806DE3C004277AB /* HeadingView.swift in Sources */,
